@@ -14,6 +14,8 @@ namespace ASPClassDemo
         public Product AssignCategory();
 
         public void InsertProduct(Product productToInsert);
+
+        public void DeleteProduct(Product product);
     }
 
 
